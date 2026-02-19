@@ -1,4 +1,5 @@
 # Excel-WhatsApp-Integration-VBA
+![How Excel&#39;s Goal Seek Makes Any Financial Analysis a Breeze](https://github.com/user-attachments/assets/2d323d4f-8a1b-476c-900e-aa776fa6e611)
 
 ## Project Overview
 This repository documents the **conceptual design and workflow** of an Excel-based utility developed using **VBA (Visual Basic for Applications)** to initiate WhatsApp Web chats in bulk.
